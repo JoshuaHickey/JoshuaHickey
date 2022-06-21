@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Joshua Hickey  @Cypheruk98
-- 🌱 I’m studying Python, SQL and data engineering!
-- 📫 Email me at joshuahickey08@gmail.com or follow me on linkedin www.linkedin.com/in/joshua-hickey
+- 👋 Hey, my name is Josh, nice to meet you!
+- 🌱 I’m currently a software engineering intern and graduate aerospace engineer.
+- 📫 Feel free to email me at joshuahickey08@gmail.com or follow me on linkedin www.linkedin.com/in/joshua-hickey
