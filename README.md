@@ -1,3 +1,3 @@
-- 👋 Hey, my name is Josh, nice to meet you!
+- 👋 Hey, my name is Josh!
 - 🌱 I’m currently a software engineering intern and graduate aerospace engineer.
 - 📫 Feel free to email me at joshuahickey08@gmail.com or follow me on linkedin www.linkedin.com/in/joshua-hickey
