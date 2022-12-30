@@ -1,6 +1,3 @@
-Joshua Hickey
-
-I am an Associate Data Engineer and Aerospace Engineering graduate.
 
 Tech stack:
 
