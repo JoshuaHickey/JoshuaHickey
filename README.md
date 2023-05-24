@@ -10,6 +10,7 @@ Tech stack:
 * PySpark
 * Pandas (Big Data with Spark and Dataframes)
 * Unittest
+* Pytest
 * Moto (Unit test and mocking AWS services)
 
 -DevOps: Terraform (AWS provider) & Jenkins (used for deployment)
